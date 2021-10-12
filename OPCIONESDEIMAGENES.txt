@@ -1,0 +1,10 @@
+Gonzalo Zoloaga10:29
+https://placeimg.com/200/200/arch
+LO pueden hacer asi tambien
+Gerard Vargas10:29
+Si ya tenes la extension solo colocas picsum y ya te sale completo
+Gonzalo Zoloaga10:30
+La ultima direccion es el tipo de imagen que vos queres, por ejemplo esa url te va a devolver imagenes de tecnologia
+Aquitectura perdon
+Omar Szkarr10:30
+por ejemplo, si haces una pagina para una empresa y necesitas poner alguna foto para indicar como se veria con una foto, para que despues te pasen las que van

@@ -1,0 +1,17 @@
+.contenido-principal{
+    display: flex;
+}
+
+.numero{
+    font-size: 3em;
+    color: yellow;
+    width: 20%;
+    height: 250px;
+    background-color: red;
+    margin: 0.1em;
+}
+
+.Dos{
+    background-color: black;
+    color: white;
+}

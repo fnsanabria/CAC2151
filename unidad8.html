@@ -1,0 +1,42 @@
+<html>
+
+<head>
+<script>
+
+
+//window.alert
+var form = document.querySelector('form');
+var fname = document.getElementById('user');
+var lname = document.getElementById('pass');
+var submit = document.getElementById('submit');
+var para = document.querySelector('p');
+var texto = document.getElementById("elH1").style.font="20px arial,serif";
+
+form.onsubmit = function(e) {
+  if (fname.value === '' || lname.value === '') {
+    e.preventDefault();
+    para.textContent = 'Completá ambos datos!';
+  }
+}
+
+</script>
+</head>
+<body>
+    <h1 id="elH1">Ingreso al Sistema</h1>
+    <form>
+        <p>
+          <label for="user">Usuario: </label>
+          <input id="user" type="email">
+        </p>
+        <p>
+          <label for="pass">Clave: </label>
+          <input id="pass" type="password">
+        </p>
+        <p>
+           <input id="submit" value= "Ingresar" type="submit">
+        </p>
+      </form>
+      <p></p>
+</body>
+
+</html>
